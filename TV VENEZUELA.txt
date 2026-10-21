@@ -1,0 +1,574 @@
+#EXTINF:-001, CANAL I
+https://streaming.canal-i.com/rendition_1080p/playlist.m3u8
+
+#EXTINF:-002, TELECOLOR ZULIA
+https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
+
+#EXTINF:-012, PROMAR TV - BARQUISIMETO
+https://vcp.myplaytv.com/promar/promar/chunklist_w252313301.m3u8?WebM3UCL
+
+#EXTINF:-013, AGUACATE TV - BARQUISIMETO
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+
+#EXTINF:-014, LATINA TV - BARQUISIMETO
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+
+#EXTINF:-015, GUARO TV - BARQUISIMETO
+https://streamtv.intervenhosting.net:3592/stream/play.m3u8
+
+#EXTINF:-017, SOMOS TV - BARQUISIMETO
+https://vcp3.myplaytv.com/somostv/somostv/chunklist_w2095449204.m3u8
+
+#EXTINF:-018, KANDELA TV
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+
+
+
+
+#EXTINF:-001, CANAL ONCE DEL ZULIA
+https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
+
+
+
+#EXTINF:-016, TELECENTRO - BARQUISIMETO
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
+
+
+
+#EXTINF:-019, GLOBAL TV - EL TOCUYO
+https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
+
+#EXTINF:-019, LGD TV
+https://streamtv.intervenhosting.net:3259/hybrid/play.m3u8
+
+#EXTINF:-040, MONAGAS VISION
+https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/chunklist_w499320458.m3u8
+
+#EXTINF:-041, ONZA TELEVISION
+https://stmv1.srvstm.com/gproducciones/gproducciones/chunklist_w1509460104.m3u8
+
+#EXTINF:-042, PORTU TV
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+
+#EXTINF:-043, SIEMBRA TV GUÁRICO
+https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/chunklist_w782416294.m3u8
+
+#EXTINF:-044, TELESOL
+https://vcp15.myplaytv.com/telesoltv/telesoltv/chunklist_w1758737636.m3u8
+
+#EXTINF:-045, LA PURA CREMA
+https://streamlov.alsolnet.com/lapuracrema/live/chunklist_w290698904.m3u8
+
+
+#EXTINF:-050, UNI TV
+https://vcp6.myplaytv.com/unitv/unitv/chunklist_w1915301166.m3u8
+
+#EXTINF:-051, ISLA TV - MARGARITA
+https://59d39900ebfb8.streamlock.net/islatv/islatv/chunklist_w2048153656.m3u8
+
+#EXTINF:-39, ANZOATEGUI TV
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/chunklist_w362980969.m3u8?WebM3UCL
+
+
+#EXTINF:-43, TRT TACHIRA
+https://vcp12.myplaytv.com/trt/trt/chunklist_w1775276413.m3u8?WebM3UCL
+
+#EXTINF:-47, BARINAS TV
+https://vcp13.myplaytv.com/barinastv/barinastv/chunklist_w1708736112.m3u8?WebM3UCL
+
+#EXTINF:-47, ALCANCE TV MARACAIBO
+https://videolatam.com:3516/live/tjjqdqurlive.m3u8
+
+#EXTINF:-47, YATVO - YARACUY
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+
+#EXTINF:-47, TV FAMILIA
+https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w628318347.m3u8
+
+#EXTINF:-47, MISERICORDIA TV
+https://streaming5.globalhostla.com/rtplive/misericordiatv/chunklist_w1003786282.m3u8
+
+#EXTINF:-47, INTER TV
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+
+#EXTINF:-47, MAS TALK
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f/660000.m3u8
+
+#EXTINF:-47, NOVELISIMA
+https://novelisimaottera-ioriver-cdn.encoders.immergo.tv/1/streamPlaylist.m3u8
+
+#EXTINF:-47, DAYSTAR
+https://cisdaystar-ioriver-cdn.encoders.immergo.tv/1/streamPlaylist.m3u8
+
+#EXTINF:-47, MAS REALITY
+https://pubads.g.doubleclick.net/ssai/event/lCwrQir1Q9KKfl5opwnA_Q/master.m3u8
+
+#EXTINF:-18, TELEVISORA ANDINA DE MERIDA
+https://tv.webtuya.com:3726/live/tammeridalive.m3u8
+
+#EXTINF:-1, VALE TV
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/chunklist_w2045076211.m3u8
+
+#EXTINF:-1, ONZA TELEVISION - YARACUY
+https://stmv1.srvstm.com/gproducciones/gproducciones/chunklist_w531893204.m3u8
+
+#EXTINF:-1, CHIVACOA TV
+https://fl1004.bozztv.com/ssh101/1234chivacoa/tracks-v1a1/mono.m3u8?WebM3UCL
+
+#EXTINF:-1, TELEARAGUA - MARACAY
+http://45.173.198.59:8080/hls/nginx3.m3u8
+
+#EXTINF:-1, TVS ARAGUA
+https://vcp10.myplaytv.com/tvs/tvs/chunklist_w1527989584.m3u8
+
+#EXTINF:-1, TRV ARAGUA - MARACAY
+https://vcp3.myplaytv.com/trv/trv/chunklist_w642368551.m3u8?WebM3UCL
+
+#EXTINF:-19, FORTUNA TV
+https://a75.azplay12.me/hls/streama206263/index.m3u8?cst=2c28e1e92a5b4fcecff0ddd154ff86a7
+
+#EXTINF:-19, REFORMA TV
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/chunklist_w483652082.m3u8?WebM3UCL
+
+
+
+#EXTINF:-19, FORTUNA TV
+https://a73.azplay.me/hls/streama206263/index.m3u8?cst=9a1011fe3b5364c18eb812cb19e29c71
+
+
+#EXTINF:-4, CANAL I
+https://vcp10.myplaytv.com/canali/canali/chunklist_w476877283.m3u8
+
+#EXTINF:-5, MAX ANIME
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
+
+#EXTINF:-7, NOVELISIMA
+https://univtec.g-mana.live/media/55f3dab5-ebc5-4763-8b15-ea0bd4753841/profile/0/profileManifest.m3u8?_uid=208f9942-bb0b-4e43-b5fc-114e898208dd&rK=eu&_did=3153b36146fba34365c6656e64a00ca453878044
+
+
+
+#EXTINF:-13, CATATUMBO TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+
+#EXTINF:-13, CANAL 21 TÁCHIRA
+https://stmv2.voxtvhd.com.br/canal21/canal21/chunklist_w1597810937.m3u8
+
+#EXTINF:-14, TVO
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+
+#EXTINF:-15, BTV
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+
+#EXTINF:-16, VEPACO
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+
+
+
+#EXTINF:-22, TV FANB
+https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
+
+#EXTINF:-22, VTV
+https://live-b.cf.dmcdn.net/sec2(u489V4O0iTKkvOw8arRX8KAxR18ekv6t_ydIHxjdJN9d_AsWGGH0OU6hHq6us2D3LzGr9DAhVPMaJ6iyhxS3kLAPw8Z9mqINi1YJOeOIzIZI6mngO5qj_jMhQ8EUHkFl)/dm/3/x930kre/d/live-480.m3u8
+
+
+#EXTINF:-23, PLOUS TV
+https://vcp.myplaytv.com:1936/glowtv/glowtv/chunklist_w38263006.m3u8
+
+#EXTINF:-25, MDA TV
+https://vcp.myplaytv.com/mdatv/mdatv/chunklist_w2070378580.m3u8
+
+
+
+#EXTINF:-27, ESPORTS MAX
+https://vcp13.myplaytv.com/esportsmax/esportsmax/chunklist_w176328475.m3u8
+
+
+
+#EXTINF:-32, TELESUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+
+
+
+#EXTINF:-44, TOROCOCO TV
+https://us.streaminghd.cl/torococotelevision/tracks-v1a1/mono.m3u8?WebM3UCL
+
+#EXTINF:-46, NET CHANNEL
+https://media.streambrothers.com:19360/8158/8158.m3u8?WebM3UCL
+
+
+
+#EXTINF:-50, INTER TV
+https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
+
+
+
+#EXTINF:-57, TNO RADIO
+https://stmv1.srvstm.com/tnovideo1/tnovideo1/chunklist_w317452335.m3u8
+
+#EXTINF:-58, UNI TV
+https://vcp6.myplaytv.com/unitv/unitv/chunklist_w1915301166.m3u8
+
+#EXTINF:-58, CORAZÓN LLANERO TV
+https://vcp11.myplaytv.com/coll/coll/chunklist_w243266032.m3u8?WebM3UCL
+
+#EXTINF:-58, VENEZOLANA DE TELEVISIÓN
+https://live-b.cf.dmcdn.net/sec2(oQIu2fE7qRU_Tc3it5uoYDx_DvWa4s-zmOoa_F16mBp_81Yxhah5dLaszIIejooy5bsccoRBzp_gtq0t8zYepTEhf_Vn1K3SCB1ut2Ps-EsaO5bnuRadVYIa-uGemF5S)/dm/3/x930kre/d/live-480.m3u8
+
+#EXTINF:-58, CORAZÓN LLANERO TV
+
+
+
+#EXTINF:-58, CORAZÓN LLANERO TV
+
+
+
+
+#EXTINF:-58, CORAZÓN LLANERO TV
+
+
+
+
+
+
+
+#EXTINF:-1, MÁS NETWORK TV - BARQUISIMETO
+http://204.157.96.12:25461/play/qouZrBRqisw6-KaJYNM6fIIobVGd6tURpgKPISfEUb6b37iwsmmUqi9mDcTpNFff/m3u8
+
+#EXTINF:-1, PROMAR TV - BARQUISIMETO
+https://vcp.myplaytv.com/promar/promar/chunklist_w252313301.m3u8?WebM3UCL
+
+#EXTINF:-2, AGUACATE TV - BARQUISIMETO
+https://streamtv.intervenhosting.net:3040/live/aguacatetvbqtolive.m3u8
+
+#EXTINF:-3, LATINA TV - BARQUISIMETO
+https://streamtv.intervenhosting.net:3639/live/latinatvlive.m3u8
+
+#EXTINF:-20, GUARO TV - BARQUISIMETO
+https://streamtv.intervenhosting.net:3592/stream/play.m3u8
+
+#EXTINF:-4, TELECENTRO - BARQUISIMETO
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
+
+#EXTINF:-19, SOMOS TV - BARQUISIMETO
+https://vcp3.myplaytv.com/somostv/somostv/chunklist_w2095449204.m3u8
+
+#EXTINF:-51, KANDELA TV
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+
+#EXTINF:-52, LGD TV
+https://streamtv.intervenhosting.net:3259/hybrid/play.m3u8
+
+#EXTINF:-52, TELEBOCONO
+https://eja.tv/?599b05cc98eed922a318afb6467dfe8b.m3u8
+
+#EXTINF:-1, MONAGAS VISION
+https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/chunklist_w499320458.m3u8
+
+#EXTINF:-1, ONZA TELEVISION
+https://stmv1.srvstm.com/gproducciones/gproducciones/chunklist_w1509460104.m3u8
+
+#EXTINF:-1, PORTU TV
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+
+#EXTINF:-1, SIEMBRA TV GUÁRICO
+https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/chunklist_w782416294.m3u8
+
+#EXTINF:-1, TELESOL
+https://vcp15.myplaytv.com/telesoltv/telesoltv/chunklist_w1758737636.m3u8
+
+#EXTINF:-1, LA PURA CREMA
+https://streamlov.alsolnet.com/lapuracrema/live/chunklist_w290698904.m3u8
+
+#EXTINF:-1, TELEVEN EUROPA
+
+#EXTINF:-12, TELECOLOR ZULIA
+https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
+
+#EXTINF:-58, UNI TV
+https://vcp6.myplaytv.com/unitv/unitv/chunklist_w1915301166.m3u8
+
+#EXTINF:-1, ISLA TV - MARGARITA
+https://59d39900ebfb8.streamlock.net/islatv/islatv/chunklist_w2048153656.m3u8
+
+#EXTINF:-39, ANZOATEGUI TV
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/chunklist_w362980969.m3u8?WebM3UCL
+
+
+#EXTINF:-43, TRT TACHIRA
+https://vcp12.myplaytv.com/trt/trt/chunklist_w1775276413.m3u8?WebM3UCL
+
+#EXTINF:-47, BARINAS TV
+https://vcp13.myplaytv.com/barinastv/barinastv/chunklist_w1708736112.m3u8?WebM3UCL
+
+#EXTINF:-47, ALCANCE TV MARACAIBO
+https://videolatam.com:3516/live/tjjqdqurlive.m3u8
+
+#EXTINF:-47, YATVO - YARACUY
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+
+#EXTINF:-47, TV FAMILIA
+https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w628318347.m3u8
+
+#EXTINF:-47, MISERICORDIA TV
+https://streaming5.globalhostla.com/rtplive/misericordiatv/chunklist_w1003786282.m3u8
+
+
+#EXTINF:-47, TV FAMILIA
+
+
+#EXTINF:-47, TV FAMILIA
+
+
+#EXTINF:-47, TV FAMILIA
+
+
+#EXTINF:-18, TELEVISORA ANDINA DE MERIDA
+https://tv.webtuya.com:3726/live/tammeridalive.m3u8
+
+#EXTINF:-1, VALE TV
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/chunklist_w2045076211.m3u8
+
+#EXTINF:-1, ONZA TELEVISION - YARACUY
+https://stmv1.srvstm.com/gproducciones/gproducciones/chunklist_w531893204.m3u8
+
+#EXTINF:-1, CHIVACOA TV
+https://fl1004.bozztv.com/ssh101/1234chivacoa/tracks-v1a1/mono.m3u8?WebM3UCL
+
+#EXTINF:-1, TELEARAGUA - MARACAY
+http://45.173.198.59:8080/hls/nginx3.m3u8
+
+#EXTINF:-1, TVS ARAGUA
+https://vcp10.myplaytv.com/tvs/tvs/chunklist_w1527989584.m3u8
+
+#EXTINF:-1, TRV ARAGUA - MARACAY
+https://vcp3.myplaytv.com/trv/trv/chunklist_w642368551.m3u8?WebM3UCL
+
+
+
+
+
+#EXTINF:-19, FORTUNA TV
+https://a73.azplay.me/hls/streama206263/index.m3u8?cst=9a1011fe3b5364c18eb812cb19e29c71
+
+
+#EXTINF:-4, CANAL I
+https://vcp10.myplaytv.com/canali/canali/chunklist_w476877283.m3u8
+
+#EXTINF:-5, MAX ANIME
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
+
+#EXTINF:-7, NOVELISIMA
+https://univtec.g-mana.live/media/55f3dab5-ebc5-4763-8b15-ea0bd4753841/profile/0/profileManifest.m3u8?_uid=208f9942-bb0b-4e43-b5fc-114e898208dd&rK=eu&_did=3153b36146fba34365c6656e64a00ca453878044
+
+
+
+#EXTINF:-13, CATATUMBO TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+
+#EXTINF:-13, CANAL 21 TÁCHIRA
+https://stmv2.voxtvhd.com.br/canal21/canal21/chunklist_w1597810937.m3u8
+
+#EXTINF:-14, TVO
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+
+#EXTINF:-15, BTV
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+
+#EXTINF:-16, VEPACO
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+
+
+
+#EXTINF:-22, TV FANB
+https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
+
+#EXTINF:-22, VTV
+https://live-b.cf.dmcdn.net/sec2(u489V4O0iTKkvOw8arRX8KAxR18ekv6t_ydIHxjdJN9d_AsWGGH0OU6hHq6us2D3LzGr9DAhVPMaJ6iyhxS3kLAPw8Z9mqINi1YJOeOIzIZI6mngO5qj_jMhQ8EUHkFl)/dm/3/x930kre/d/live-480.m3u8
+
+
+#EXTINF:-23, PLOUS TV
+https://vcp.myplaytv.com:1936/glowtv/glowtv/chunklist_w38263006.m3u8
+
+#EXTINF:-25, MDA TV
+https://vcp.myplaytv.com/mdatv/mdatv/chunklist_w2070378580.m3u8
+
+
+
+#EXTINF:-27, ESPORTS MAX
+https://vcp13.myplaytv.com/esportsmax/esportsmax/chunklist_w176328475.m3u8
+
+
+
+#EXTINF:-32, TELESUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+
+
+
+#EXTINF:-44, TOROCOCO TV
+https://us.streaminghd.cl/torococotelevision/tracks-v1a1/mono.m3u8?WebM3UCL
+
+#EXTINF:-46, NET CHANNEL
+https://media.streambrothers.com:19360/8158/8158.m3u8?WebM3UCL
+
+
+
+#EXTINF:-50, INTER TV
+https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
+
+
+
+#EXTINF:-57, TNO RADIO
+https://stmv1.srvstm.com/tnovideo1/tnovideo1/chunklist_w317452335.m3u8
+
+#EXTINF:-58, UNI TV
+https://vcp6.myplaytv.com/unitv/unitv/chunklist_w1915301166.m3u8
+
+#EXTINF:-58, CORAZÓN LLANERO TV
+https://vcp11.myplaytv.com/coll/coll/chunklist_w243266032.m3u8?WebM3UCL
+
+#EXTINF:-58, VENEZOLANA DE TELEVISIÓN
+https://live-b.cf.dmcdn.net/sec2(oQIu2fE7qRU_Tc3it5uoYDx_DvWa4s-zmOoa_F16mBp_81Yxhah5dLaszIIejooy5bsccoRBzp_gtq0t8zYepTEhf_Vn1K3SCB1ut2Ps-EsaO5bnuRadVYIa-uGemF5S)/dm/3/x930kre/d/live-480.m3u8
+
+#EXTINF:-58, CORAZÓN LLANERO TV
+
+
+
+#EXTINF:-58, CORAZÓN LLANERO TV
+
+
+
+
+#EXTINF:-58, CORAZÓN LLANERO TV
+
+
+
+
+
+
+
+#EXTINF:-1, ONZA TELEVISION - YARACUY
+https://stmv1.srvstm.com/gproducciones/gproducciones/chunklist_w531893204.m3u8
+
+#EXTINF:-1, TELEARAGUA
+http://45.173.198.59:8080/hls/nginx3.m3u8
+
+#EXTINF:-1, TVS ARAGUA
+https://vcp10.myplaytv.com/tvs/tvs/chunklist_w1527989584.m3u8
+
+#EXTINF:-1, TRV ARAGUA
+https://vcp3.myplaytv.com/trv/trv/chunklist_w642368551.m3u8?WebM3UCL
+
+#EXTINF:-1, VALE TV
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/chunklist_w2045076211.m3u8
+
+#EXTINF:-1, ISLA TV
+https://59d39900ebfb8.streamlock.net/islatv/islatv/chunklist_w2048153656.m3u8
+
+#EXTINF:-1, MÁS NETWORK
+http://204.157.96.12:25461/play/qouZrBRqisw6-KaJYNM6fIIobVGd6tURpgKPISfEUb6b37iwsmmUqi9mDcTpNFff/m3u8
+
+#EXTINF:-1, PROMAR TV
+https://vcp.myplaytv.com/promar/promar/chunklist_w252313301.m3u8?WebM3UCL
+
+#EXTINF:-2, AGUACATE TV
+https://streamtv.intervenhosting.net:3040/live/aguacatetvbqtolive.m3u8
+
+#EXTINF:-3, LATINA TV
+https://streamtv.intervenhosting.net:3639/live/latinatvlive.m3u8
+
+#EXTINF:-20, GUARO TV
+https://streamtv.intervenhosting.net:3061/stream/play.m3u8
+
+#EXTINF:-4, TELECENTRO
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
+
+#EXTINF:-19, SOMOS TV
+https://vcp3.myplaytv.com/somostv/somostv/chunklist_w2095449204.m3u8
+
+#EXTINF:-19, FORTUNA TV
+https://a74.azplay.me/hls/streama206263/index.m3u8?cst=179b4298a0fec06ddd58f76c6a04134a
+
+
+#EXTINF:-4, CANAL I
+https://vcp10.myplaytv.com/canali/canali/chunklist_w476877283.m3u8
+
+#EXTINF:-5, MAX ANIME
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
+
+#EXTINF:-7, NOVELISIMA
+https://univtec.g-mana.live/media/55f3dab5-ebc5-4763-8b15-ea0bd4753841/profile/0/profileManifest.m3u8?_uid=208f9942-bb0b-4e43-b5fc-114e898208dd&rK=eu&_did=3153b36146fba34365c6656e64a00ca453878044
+
+#EXTINF:-12, TELECOLOR ZULIA
+https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
+
+#EXTINF:-13, CATATUMBO TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+
+#EXTINF:-13, CANAL 21 TÁCHIRA
+https://stmv2.voxtvhd.com.br/canal21/canal21/chunklist_w1597810937.m3u8
+
+#EXTINF:-14, TVO
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+
+#EXTINF:-15, BTV
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+
+#EXTINF:-16, VEPACO
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+
+#EXTINF:-18, TELEVISORA ANDINA DE MERIDA
+https://tv.webtuya.com:3726/live/tammeridalive.m3u8
+
+#EXTINF:-22, TV FANB
+https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
+
+#EXTINF:-22, VTV
+https://live-b.cf.dmcdn.net/sec2(u489V4O0iTKkvOw8arRX8KAxR18ekv6t_ydIHxjdJN9d_AsWGGH0OU6hHq6us2D3LzGr9DAhVPMaJ6iyhxS3kLAPw8Z9mqINi1YJOeOIzIZI6mngO5qj_jMhQ8EUHkFl)/dm/3/x930kre/d/live-480.m3u8
+
+
+#EXTINF:-23, PLOUS TV
+https://vcp.myplaytv.com:1936/glowtv/glowtv/chunklist_w38263006.m3u8
+
+#EXTINF:-25, MDA TV
+https://vcp.myplaytv.com/mdatv/mdatv/chunklist_w2070378580.m3u8
+
+
+
+#EXTINF:-27, ESPORTS MAX
+https://vcp13.myplaytv.com/esportsmax/esportsmax/chunklist_w176328475.m3u8
+
+
+
+#EXTINF:-32, TELESUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+
+#EXTINF:-39, ANZOATEGUI TV
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/chunklist_w362980969.m3u8?WebM3UCL
+
+
+#EXTINF:-43, TRT TACHIRA
+https://vcp12.myplaytv.com/trt/trt/chunklist_w1775276413.m3u8?WebM3UCL
+
+#EXTINF:-44, TOROCOCO TV
+https://us.streaminghd.cl/torococotelevision/tracks-v1a1/mono.m3u8?WebM3UCL
+
+#EXTINF:-46, NET CHANNEL
+https://media.streambrothers.com:19360/8158/8158.m3u8?WebM3UCL
+
+#EXTINF:-47, BARINAS TV
+https://vcp13.myplaytv.com/barinastv/barinastv/chunklist_w1708736112.m3u8?WebM3UCL
+
+#EXTINF:-50, INTER TV
+https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
+
+#EXTINF:-51, KANDELA TV
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+
+#EXTINF:-52, LGD TV
+https://streamtv.intervenhosting.net:3259/hybrid/play.m3u8
+
+#EXTINF:-57, TNO RADIO
+https://stmv1.srvstm.com/tnovideo1/tnovideo1/chunklist_w317452335.m3u8
+
+#EXTINF:-58, UNI TV
+https://vcp6.myplaytv.com/unitv/unitv/chunklist_w1915301166.m3u8
